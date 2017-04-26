@@ -1,6 +1,6 @@
 # npmtest-electron-prebuilt
 
-#### test coverage for  [electron-prebuilt (v1.4.13)](https://github.com/electron-userland/electron-prebuilt#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-electron-prebuilt.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-electron-prebuilt) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-electron-prebuilt.svg)](https://travis-ci.org/npmtest/node-npmtest-electron-prebuilt)
+#### basic test coverage for  [electron-prebuilt (v1.4.13)](https://github.com/electron-userland/electron-prebuilt#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-electron-prebuilt.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-electron-prebuilt) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-electron-prebuilt.svg)](https://travis-ci.org/npmtest/node-npmtest-electron-prebuilt)
 
 #### Install prebuilt electron binaries for the command-line using npm
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-electron-prebuilt/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-electron-prebuilt/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-electron-prebuilt/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-electron-prebuilt/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-electron-prebuilt/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-electron-prebuilt/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-electron-prebuilt/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-electron-prebuilt/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-electron-prebuilt/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-electron-prebuilt/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-electron-prebuilt/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-electron-prebuilt/build/coverage.html/index.html)
 
